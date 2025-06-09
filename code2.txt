@@ -1,2 +1,0 @@
-main 개발중
-function
